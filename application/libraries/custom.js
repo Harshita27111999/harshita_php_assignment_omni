@@ -1,5 +1,5 @@
  // Define Global base path...
-var base_url = 'http://localhost/omni_sol/'
+var base_url = 'http://localhost/harshita_php_assignment_omni/'
 
 $(document).ready(function() 
 {

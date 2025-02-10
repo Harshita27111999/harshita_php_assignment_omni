@@ -4,7 +4,7 @@ class DbHandler {
     private $conn;
 
     private $image_path='Upload/';
-    private $image_url='http://localhost/omni_sol/assets/img/';
+    private $image_url='http://localhost/harshita_php_assignment_omni/assets/img/';
 
     function __construct(){
         require_once dirname(__FILE__) .'/DbConnect.php';
